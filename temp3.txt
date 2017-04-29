@@ -1,0 +1,32 @@
+45	1014	Plenty	500
+46	1015	Punch	10000
+47	1023	Shooting the Rapids	1300
+47	1027	Mountain Climber	4700
+48	1024	Spirit and Nature	592
+50	1001	Red Rock Mountain	18000
+50	1028	Tired Cowboy	4700
+52	1002	Offerings 	10000
+42	1032	Rising Sun	2000
+42	1060	Story Sticks	650
+43	1044	Mexican Fiesta	14000
+44	1047	Medicine Man	2500
+47	1035	Nature/Nurture	1300
+47	1040	Night on the Praire	1300
+50	1054	Snake Charmer	4500
+57	1048	Comfy Chair	800
+60	1058	The Gathering	250
+41	1062	Cowboy and Saddle	18000
+47	1065	Moonlite 	1300
+49	1067	Owl in Flight	7000
+50	1068	Moonlight	9750
+50	1069	Renaissance	5500
+51	1064	Spirit Columns	7000
+53	1089	Life Lessons	4125
+55	1074	Storm on the Rise	8000
+59	1080	The Dust Behind	18000
+47	1092	Dressing Up	1300
+50	1113	Shadow House	5500
+50	1114	Storytelling at the Campfire	18000
+54	1091	Stone Palette	11500
+56	1098	Sweet Project	592
+58	1101	The Red Door	10000

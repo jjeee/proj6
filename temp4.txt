@@ -1,0 +1,29 @@
+61	1019	The White Heart	9300
+64	1004	Seeking Shelter	52000
+65	1016	Untitled	6000
+66	1026	Untitled (couple)	4000
+68	1025	Profile of a Woman	625
+69	1022	The Cowboy	4200
+71	1010	Untitled (land with adobe)	800
+73	1020	Untitled (Man holding coat)	3000
+74	1012	Man on Horseback	8000
+82	1007	Homage to the Ancestors	1200
+66	1057	Untitled	4500
+77	1033	Untitled (Woman abstract)	2500
+62	1079	Carrying the Mail	8000
+63	1085	Traces	20000
+64	1083	Untitled	2500
+67	1086	Untitled (desert landscape)	18000
+76	1066	Untitled (still life)	19500
+78	1061	Untitled Mural	3520
+79	1071	Ride the Rapids	300
+79	1076	Ride the Bronco	1500
+81	1087	Three Woman	20000
+61	1095	The Spirit	20000
+62	1093	Antelopes 	12500
+62	1110	Three Sisters	6500
+70	1104	Untitled 	1800
+72	1111	Untitled (man and crucifix)	3200
+75	1097	Untitled (Sea)	2800
+77	1108	Untitled Mural	400
+80	1105	Meteor Show	10000

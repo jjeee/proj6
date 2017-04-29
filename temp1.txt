@@ -1,0 +1,30 @@
+3	1013	Superstitions	78000
+3	1021	Bead Wall	14000
+6	1017	Brittlecone	1300
+8	1018	Mountain Scene	2500
+12	1003	Spring Flowers	2400
+18	1005	The Hang	8000
+19	1011	Eve	975
+1	1038	Spring Flowers	800
+1	1050	Cattle Ranch	10000
+2	1042	Coffee on the Trail	7544
+3	1034	Beaver Pole Jumble	28000
+5	1036	Blackhawk	25500
+6	1053	Blue Eyed Indian	40000
+6	1056	Cavalry Is Coming	1900
+7	1049	Buttercup with Red Lip	400
+9	1055	Starlit Evening	9500
+14	1039	Treachery	20000
+16	1052	American Rodeo	3500
+17	1059	Dwelling	16000
+3	1063	Asleep in the Garden	110000
+4	1070	Beginnings	27500
+6	1075	Western Boots and Spurs	6000
+6	1077	Bull Riding	5200
+11	1090	Off the Grid	8000
+13	1081	Coming Under Fire	650
+15	1073	Dancing in the Light	4000
+1	1103	Trail End	8000
+10	1096	Ceremonial Sticks	15000
+14	1102	Crying Hats	10000
+20	1099	Watch That Rattler	900

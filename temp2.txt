@@ -1,0 +1,25 @@
+26	1008	End of the Path	1900
+28	1009	Amen	3000
+28	1030	Ash Bench	13000
+31	1029	Horseshoe Falls	15000
+32	1006	House Remembered	700
+21	1037	Floating World	2350
+28	1043	Creosote Bushes	18000
+29	1041	Night Version	3800
+33	1046	Immediate Gratification	1500
+34	1031	Inside/Out	3500
+36	1051	Night Version	7000
+38	1045	Leaf Patterns	2100
+23	1084	Crossing the Platt River	2200
+24	1072	Funnel	4500
+28	1078	Chuckwagon	32000
+29	1082	Spring Flowers	20000
+37	1088	Lessons	3700
+22	1109	Friends	16000
+25	1115	Starry Night	8500
+27	1112	Dark Canyon	8000
+30	1116	Apache Warrior	23000
+35	1107	Striking It Rich	1750
+38	1100	Hungry Cowboys	750
+39	1094	Life Is Sweet	25000
+40	1106	Horse Corral	12500

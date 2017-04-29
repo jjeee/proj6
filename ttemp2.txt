@@ -1,0 +1,61 @@
+41	1062	Cowboy and Saddle	18000
+42	1032	Rising Sun	2000
+42	1060	Story Sticks	650
+43	1044	Mexican Fiesta	14000
+44	1047	Medicine Man	2500
+45	1014	Plenty	500
+46	1015	Punch	10000
+47	1023	Shooting the Rapids	1300
+47	1027	Mountain Climber	4700
+47	1035	Nature/Nurture	1300
+47	1040	Night on the Praire	1300
+47	1065	Moonlite 	1300
+47	1092	Dressing Up	1300
+48	1024	Spirit and Nature	592
+49	1067	Owl in Flight	7000
+50	1001	Red Rock Mountain	18000
+50	1028	Tired Cowboy	4700
+50	1054	Snake Charmer	4500
+50	1068	Moonlight	9750
+50	1069	Renaissance	5500
+50	1113	Shadow House	5500
+50	1114	Storytelling at the Campfire	18000
+51	1064	Spirit Columns	7000
+52	1002	Offerings 	10000
+53	1089	Life Lessons	4125
+54	1091	Stone Palette	11500
+55	1074	Storm on the Rise	8000
+57	1048	Comfy Chair	800
+59	1080	The Dust Behind	18000
+60	1058	The Gathering	250
+56	1098	Sweet Project	592
+58	1101	The Red Door	10000
+61	1019	The White Heart	9300
+61	1095	The Spirit	20000
+62	1079	Carrying the Mail	8000
+62	1093	Antelopes 	12500
+62	1110	Three Sisters	6500
+63	1085	Traces	20000
+64	1004	Seeking Shelter	52000
+64	1083	Untitled	2500
+65	1016	Untitled	6000
+66	1026	Untitled (couple)	4000
+66	1057	Untitled	4500
+67	1086	Untitled (desert landscape)	18000
+68	1025	Profile of a Woman	625
+69	1022	The Cowboy	4200
+70	1104	Untitled 	1800
+71	1010	Untitled (land with adobe)	800
+72	1111	Untitled (man and crucifix)	3200
+73	1020	Untitled (Man holding coat)	3000
+74	1012	Man on Horseback	8000
+75	1097	Untitled (Sea)	2800
+76	1066	Untitled (still life)	19500
+77	1033	Untitled (Woman abstract)	2500
+77	1108	Untitled Mural	400
+78	1061	Untitled Mural	3520
+79	1071	Ride the Rapids	300
+79	1076	Ride the Bronco	1500
+80	1105	Meteor Show	10000
+81	1087	Three Woman	20000
+82	1007	Homage to the Ancestors	1200
